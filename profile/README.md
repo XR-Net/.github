@@ -1,3 +1,3 @@
 # .github
-<h2> Welcome to XR-Net!!</h2>
-<p>XR-Net is a VR and AR organisation who's goal is to revolutionise Africa's technology influenced  sectors and become the leading Augmented Reality corp on the continent</p>
+<h2> Welcome to XRNet!!</h2>
+<p>XRNet is an organization specializing in the use of VR and AR to revolutionize Africa's digital economy. We are influencing the way digital assets are interacted with, improving the experience of digital; commerce, real estate, entertainment, and other sectors, leading Augmented/Virtual Reality development on the continent</p>
